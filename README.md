@@ -20,6 +20,12 @@
             </ul>
         </li>
     </ol>
+     <h2>Technologies Used:</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
      <h2>Deployment:</h2>
     <p>Rollup Challenge is deployed on GitHub Pages and Netlify for convenient access:</p>
     <ul>
