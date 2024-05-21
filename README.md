@@ -29,7 +29,7 @@
      <h2>Deployment:</h2>
     <p>Rollup Challenge is deployed on GitHub Pages and Netlify for convenient access:</p>
     <ul>
-        <li>GitHub Pages: <a href="#">Link to GitHub Pages deployment</a></li>
-        <li>Netlify: <a href="#">Link to Netlify deployment</a></li>
+        <li>GitHub Pages: <a href="https://gjwebdev7.github.io/Rollup-Challange/">Link to GitHub Pages deployment</a></li>
+        <li>Netlify: <a href="https://rollupchallange.netlify.app/">Link to Netlify deployment</a></li>
     </ul>
 
